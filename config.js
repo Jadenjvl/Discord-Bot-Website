@@ -58,7 +58,7 @@ const config = {
   twitterLink: "www.YaxBot.xyz",
   mediumLink: "www.YaxBot.xyz",
   facebookLink: "www.YaxBot.xyz",
-  discordLink: "www.YaxBot.xyz",
+  discordLink: "https://discord.gg/7PCdF98G9c",
   youtubeLink: "www.YaxBot.xyz",
 };
 
