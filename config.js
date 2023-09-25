@@ -18,9 +18,9 @@ const config = {
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
-      name: "99% Uptime",
+      name: "Tos",
       description:
-        "Uptime is a measure of system reliability, expressed as the percentage of time a machine, typically a computer.",
+        "TOS do not use our BOT in a way that encourages any sexual content NSFW and racial slurs and et please follow our rules and TOS and be happy using the bot.",
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
